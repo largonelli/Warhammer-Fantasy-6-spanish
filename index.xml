@@ -2,6 +2,6 @@
 <dataIndex battleScribeVersion="2.03" name="Warhammer Fantasy 6 Spanish" indexUrl="https://raw.githubusercontent.com/largonelli/Warhammer-Fantasy-6-spanish/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer Fantasy - 6ª Edición.gstz" dataType="gamesystem" dataId="35fb-acbd-108e-8785" dataName="Warhammer Fantasy - 6ª Edición" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="WHF6 - Orcos y Goblins.catz" dataType="catalogue" dataId="2296-9603-e077-5a3f" dataName="WHF6 - Orcos y Goblins" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="WHF6 - Orcos y Goblins.catz" dataType="catalogue" dataId="2296-9603-e077-5a3f" dataName="WHF6 - Orcos y Goblins" dataBattleScribeVersion="2.03" dataRevision="2"/>
   </dataIndexEntries>
 </dataIndex>
